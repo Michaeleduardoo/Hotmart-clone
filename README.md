@@ -6,7 +6,8 @@ Este repositório contém um clone profissional da página da Hotmart, desenvolv
 
 ✅ **HTML5** - Estrutura semântica e acessível <br>
 ✅ **CSS3** - Estilização responsiva e moderna <br>
-✅ **React.js** - Componentização e reatividade eficiente (se aplicável) <br>
+✅ **JavaScript** - Dinamismo e interatividade <br>
+✅ **React.js** - Componentização e reatividade eficiente  <br>
 
 ## 🎯 Funcionalidades
 
