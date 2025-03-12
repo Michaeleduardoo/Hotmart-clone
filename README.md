@@ -39,3 +39,6 @@ Este repositório contém um clone profissional da página da Hotmart, desenvolv
 
 [HOTMART LINK](https://hotmart-clone.vercel.app/) 🧑‍💻
 
+
+![image](https://github.com/user-attachments/assets/9b39dce3-ddda-4c3c-939d-e442da9a5c26)
+
