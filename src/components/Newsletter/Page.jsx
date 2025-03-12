@@ -6,11 +6,7 @@ function Newsletter() {
       </div>
 
       <div className="form-container">
-        <form
-          id="form"
-          action="https://www.freecodecamp.com/email-submit"
-          method="post"
-        >
+        <form id="form">
           <input
             type="email"
             placeholder="Endereço de email"
