@@ -35,18 +35,7 @@ Este repositório contém um clone profissional da página da Hotmart, desenvolv
    npm run dev
    ```
 
-## 🤝 Contribuição
+## 📌 Deploy
 
-Contribuições são sempre bem-vindas! Siga os passos abaixo para colaborar:
+[HOTMART LINK](https://github.com/seu-usuario) 🧑‍💻
 
-1. **Fork este repositório**
-2. **Crie um branch para sua feature:** `git checkout -b minha-feature`
-3. **Commit suas alterações:** `git commit -m 'Adicionando uma nova funcionalidade'`
-4. **Envie para o branch principal:** `git push origin minha-feature`
-5. **Abra um Pull Request** e aguarde a revisão! 🚀
-
-## 📌 Autor
-
-Desenvolvido com 💙 por [Seu Nome](https://github.com/seu-usuario) 🧑‍💻
-
-📩 **Contato:** seu-email@email.com
