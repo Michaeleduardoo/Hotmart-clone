@@ -37,5 +37,5 @@ Este repositório contém um clone profissional da página da Hotmart, desenvolv
 
 ## 📌 Deploy
 
-[HOTMART LINK](https://github.com/seu-usuario) 🧑‍💻
+[HOTMART LINK](https://hotmart-clone.vercel.app/) 🧑‍💻
 
